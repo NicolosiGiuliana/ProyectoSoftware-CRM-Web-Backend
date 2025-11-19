@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4aR/4nYKfJY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\TP2-Nicolosi_Giuliana-reentrega\\TP2-Nicolosi_Giuliana\\WebApplication1\\Aplication\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
